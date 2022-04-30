@@ -13,6 +13,6 @@ Ideally, this would have been done in an SQL table(s), but wanted to try it out 
 
 ## Steps to run the code:
 
-1. *python3 -m source -venv venv
+1. *python3 -m source -venv venv*
 2. *pip install -r requirements.txt*
 3. *python main.py*
