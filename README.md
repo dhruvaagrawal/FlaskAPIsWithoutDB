@@ -9,3 +9,10 @@ This is a very simple project where there are APIs to create, read (individual a
 Moreover, there are APIs also there to add users to a particular team, list those users and delete users for a particular team.
 
 Ideally, this would have been done in an SQL table(s), but wanted to try it out writing to JSON files (as DB).
+
+
+> Steps to run the code:
+
+>> *python3 -m source -venv venv
+>> *pip install -r requirements.txt*
+>> *python main.py*
