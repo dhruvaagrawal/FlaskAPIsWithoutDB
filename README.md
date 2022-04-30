@@ -2,7 +2,7 @@
 
 ## Part 1
 
-#### * This is Part 1 of a series of Github repository pushes that I will do, starting today, to learn new things and keep up with what I have already learnt. *
+* This is Part 1 of a series of Github repository pushes that I will do, starting today, to learn new things and keep up with what I have already learnt. *
 
 This is a very simple project where there are APIs to create, read (individual and the whole list) and update users and teams.
 
