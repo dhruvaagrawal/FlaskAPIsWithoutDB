@@ -11,8 +11,8 @@ Moreover, there are APIs also there to add users to a particular team, list thos
 Ideally, this would have been done in an SQL table(s), but wanted to try it out writing to JSON files (as DB).
 
 
-> Steps to run the code:
+## Steps to run the code:
 
->> *python3 -m source -venv venv
->> *pip install -r requirements.txt*
->> *python main.py*
+1. *python3 -m source -venv venv
+2. *pip install -r requirements.txt*
+3. *python main.py*
